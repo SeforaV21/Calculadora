@@ -1,0 +1,36 @@
+.calculadora{
+    border: 50px;
+    background-color: rgb(103, 230, 247);
+    width: 350px;
+    height: 450px;
+    text-align: center;
+    display: block;
+    margin:0 auto;
+    padding: 20px;
+    border-radius: 25px;
+}
+
+#textoPantalla{
+    display: block;
+    text-align: center;
+    font-size:40px;
+    margin-bottom:50px;
+    width:350px;
+    height:80px;
+    line-height:80px;
+    background-color:#fff;
+    border-radius:25px;
+    overflow-y: unset;
+}
+
+.calculadora [type=button] {
+    width: 50px; 
+    padding: 0; 
+    font-size: 15px;
+    width: 65px;
+    height: 43px;
+    border-radius: 50%;
+    border: 2px solid #f70202;
+     
+ }
+
